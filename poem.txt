@@ -2,3 +2,6 @@ I am writing
 a terribly boring poem
 This is sort of fun
 And learning will go on
+Coding
+For fun
+at a hackathon
